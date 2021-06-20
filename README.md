@@ -1,16 +1,19 @@
 # S5058253_ARP_ASSIGNMENT-1
 
 **AIM**
+
 Design and code a strange arithmetic integer this calculator able to exdcute the 4 basic operations, as well as a compbined arithmetic expression.
 The structure of the calculator may seem bombastic, nevertheless is a simplified skeleton of real complex calculators.
 
 **INSTRUCTION**
+
 To accecs our code of design and arthematic integer caluculator
 1.https://html5-editor.net/
 we have to paste our code which is present in design.html.
 when we excute the code we can see the design of the calculator.
 
 **CODE**
+
 Here, we will create a simple calculator program in C which will perform basic arithmetic operations like addition, subtraction, multiplication, division, and remainder depending on the input from the user.
 Users will have the choice to choose the operation. If the user chooses the wrong operation then he/she will get an error message.
 Prerequisites for writing a simple calculator program in C:- Switch case in C programming, Programs on switch case in C
@@ -58,6 +61,7 @@ If the entered operator is not matched with the case labels then the default sta
 
 
 **RESULTS**
+
 This program takes an aritthmatic operator +,-,*,/ (P,M,T,D)and two operands from the user. 
 Then it performs the calculations on the two operands depending upon the operator entered by the user.
 O1 X Y  -->F executes a process that carries out the operation XO1Y (e.g., 3 * 7, written 3 T 7)) and returns the result and writes it in the shell window
@@ -67,5 +71,7 @@ O1 X Y TO O2 Z K -->F executes a process that carries out the operation O1 then 
 O1 X Y TO O2 Z K TO O3 H K... as the previous one, cascading the operations O1, O2, O3.....
 
 Enter an operator (P,M,T,D,): T
+
 Enter two operands:3T7=21
+
 1.5 T 4.5 = 6.8
